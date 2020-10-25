@@ -23,6 +23,6 @@ def run():
 
 
 
-#Python comienza a correr el código a partir de aquí
+#Con esta función, Python comienza a correr el código a partir de aquí
 if __name__ == '__main__':
     run()
